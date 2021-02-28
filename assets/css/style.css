@@ -8,7 +8,7 @@
 body {
     background-color: #d2d4d0;
 }
-/* Placed the main header and nav in the header container to make cleaner*/
+/* Placed the main header and nav in the header container to make cleaner made the background color a little darker for better visual optimization*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -84,8 +84,8 @@ article {
     display: inline-block;
     margin-left: 20px;
 }
-
-article div {
+/* Made the background colors a little darker for better visual optimization*/
+section {
   margin-bottom: 20px;
    padding: 50px;
    height: 300px;
